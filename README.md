@@ -1,21 +1,20 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Mustafa%20Kemal%20Vural&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20System%20Architect%20%7C%20Building%20the%20Future&descSize=16&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,50:0d9488,100:2dd4bf&height=200&section=header&text=Mustafa%20Kemal%20Vural&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20System%20Architect%20%7C%20Building%20the%20Future&descSize=16&descAlignY=55&descAlign=50"/>
 
 <!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-MustafaKemalV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MustafaKemalV)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafakemalvural)
-[![NexOSS](https://img.shields.io/badge/🌐_NexOSS-Digital_Ecosystem-e94560?style=for-the-badge)](https://www.nexoss.co/)
-[![Nexein](https://img.shields.io/badge/🚀_Nexein-Career_Intelligence-6366f1?style=for-the-badge)](https://nexein.com)
+[![NexOSS](https://img.shields.io/badge/🌐_NexOSS-Digital_Ecosystem-0d9488?style=for-the-badge)](https://www.nexoss.co/)
+[![Nexein](https://img.shields.io/badge/🚀_Nexein-Career_Intelligence-14b8a6?style=for-the-badge)](https://nexein.com)
 
 </div>
 
-<!-- Typing SVG -->
+<br/>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=We+Version+the+Future;Building+intelligent+platforms+that+solve+real+problems" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=500&lines=We+Version+the+Future" alt="Typing SVG" />
 </p>
 
 ---
@@ -49,7 +48,7 @@ AI-powered career platform replacing the outdated job search system. Features un
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -74,51 +73,19 @@ AI-powered career platform replacing the outdated job search system. Features un
 ### AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-Multi--Agent_Systems-8B5CF6?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-Multi--Agent_Systems-0d9488?style=flat-square)
 
 </div>
 
 ---
 
-## 📊 What I Focus On
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   🔧 Multi-Tenant Architectures    → Scalable SaaS foundations   ║
-║   🔗 API Design & Integration      → RESTful, clean, documented  ║
-║   🗄️ Database Engineering          → PostgreSQL, optimization    ║
-║   ⚙️ CI/CD Pipelines               → GitLab, automation at scale ║
-║   🤖 AI-Powered Solutions          → LLM integration, matching   ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 📈 GitHub Analytics
+## 📊 Focus Areas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MustafaKemalV&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaKemalV&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=e94560&text_color=c9d1d9"/>
+
+`Multi-Tenant Architectures` `API Design & Integration` `Database Engineering` `CI/CD Pipelines` `AI-Powered Solutions`
+
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MustafaKemalV&theme=radical&hide_border=true&background=0D1117&stroke=e94560&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
-</div>
-
----
-
-## 🎯 Current Focus
-
-```javascript
-const currentWork = {
-    building: ["NexOSS Ecosystem", "Nexein Platform"],
-    learning: ["Advanced LLM Integration", "System Design Patterns"],
-    exploring: ["Multi-Agent AI Systems", "Scalable Architectures"],
-    motto: "Code → Deploy → Scale → Repeat"
-};
-```
 
 ---
 
@@ -126,15 +93,13 @@ const currentWork = {
 
 ### 💡 Let's Build Something Together
 
-<a href="mailto:contact@nexoss.co">
-  <img src="https://img.shields.io/badge/Email-Get_in_Touch-e94560?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:mustafakemalv@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mustafakemalv@gmail.com-0d9488?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MustafaKemalV&color=e94560&style=flat-square&label=Profile+Views)
 
 </div>
 
+<br/>
+
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:0d9488,100:134e4a&height=120&section=footer"/>
