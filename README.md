@@ -10,5 +10,3 @@
   - 💼 I build with TypeScript, Python, NestJS, Node.js, Next.js, Go, Java, PostgreSQL...
   - ⚡ Outside code: reading, self-improvement, and sailing.
   - 📬 Reach out to me: mustafakemalv@gmail.com
-
-  **Tech:** _whatever I need..._
