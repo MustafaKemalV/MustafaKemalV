@@ -1,9 +1,7 @@
 ### Hi, I'm Mustafa Kemal 👋
 
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](htt
-  ps://github.com/MustafaKemalV)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-  )](https://www.linkedin.com/in/mustafakemalvural)
+[<img src="https://img.shields.io/badge/github-2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/MustafaKemalV)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mustafakemalvural)
 
   - 💻 Backend-focused full-stack engineer who builds and ships products end to end.
   - 📍 Riga, Latvia
@@ -11,4 +9,6 @@
   analysis, job matching, and an in-app AI assistant.
   - 💼 I build with TypeScript, Python, NestJS, Node.js, Next.js, Go, Java, PostgreSQL...
   - ⚡ Outside code: reading, self-improvement, and sailing.
-  - 📬 Reach out: mustafakemalv@gmail.com
+  - 📬 Reach out to me: mustafakemalv@gmail.com
+
+  **Tech:** _whatever I need..._
