@@ -8,5 +8,5 @@
   - 🚀 Currently building **[Nexein](https://beta.nexein.co)**, a self-hosted AI career platform with CV
   analysis, job matching, and an in-app AI assistant.
   - 💼 I build with TypeScript, Python, NestJS, Node.js, Next.js, Go, Java, PostgreSQL...
-  - ⚡ Outside code: reading, self-improvement, and sailing.
+  - ⚡ Outside code: Sailing, reading, and lifting.
   - 📬 Reach out to me: mustafakemalv@gmail.com
