@@ -5,6 +5,6 @@
   - 📍 Riga, Latvia
   - 🚀 Currently building **[Nexein](https://beta.nexein.co)**, a self-hosted AI career platform with CV
   analysis, job matching, and an in-app AI assistant.
-  - 💼 I build with TypeScript, Java, Python, NestJS, Node.js, Next.js, Go, PostgreSQL...
+  - 💼 I build with TypeScript, Java, Go, Python, NestJS, Next.js, SQL...
   - ⚡ Outside code: Sailing, reading, and lifting.
   - 📬 Reach out to me: mustafakemalv@gmail.com
